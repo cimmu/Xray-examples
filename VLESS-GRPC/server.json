@@ -9,7 +9,7 @@
       "settings": {
         "clients": [
           {
-            "id": "your_uuid" // 填写你的 UUID
+            "id": "your_uuid"
           }
         ],
         "decryption": "none"
@@ -17,7 +17,7 @@
       "streamSettings": {
         "network": "grpc",
         "grpcSettings": {
-          "serviceName": "grpcServiceName" // 填写你的 ServiceName
+          "serviceName": "grpcServiceName"
         }
       }
     }
